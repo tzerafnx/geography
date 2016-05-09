@@ -1,0 +1,5330 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.585897,37.630441 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2900928,
+    "ANSICODE":2393934,
+    "NAME":"Altenburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":352,
+    "HU10":152,
+    "ALAND":2718984,
+    "AWATER":0,
+    "ALAND_SQMI":1.05,
+    "AWATER_SQMI":0,
+    "formatted":"Altenburg",
+    "region":"Thuringia",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.987593,45.50609 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5501650,
+    "ANSICODE":2586448,
+    "NAME":"Amberg CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":180,
+    "HU10":134,
+    "ALAND":4176407,
+    "AWATER":21060,
+    "ALAND_SQMI":1.613,
+    "AWATER_SQMI":0.008,
+    "formatted":"Amberg",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.70456,38.536607 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1752142,
+    "ANSICODE":2399453,
+    "NAME":"New Baden village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":3349,
+    "HU10":1333,
+    "ALAND":4141730,
+    "AWATER":936,
+    "ALAND_SQMI":1.599,
+    "AWATER_SQMI":0,
+    "formatted":"Baden",
+    "region":"Lower Austria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.744834,38.669843 ]
+    },
+    "properties": {
+    "USPS":"MD",
+    "GEOID":2403500,
+    "ANSICODE":2583573,
+    "NAME":"Baden CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":2128,
+    "HU10":811,
+    "ALAND":71658632,
+    "AWATER":2213423,
+    "ALAND_SQMI":27.668,
+    "AWATER_SQMI":0.855,
+    "formatted":"Baden",
+    "region":"Lower Austria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.222537,40.639695 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4203736,
+    "ANSICODE":1214863,
+    "NAME":"Baden borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":4135,
+    "HU10":1995,
+    "ALAND":5855187,
+    "AWATER":576977,
+    "ALAND_SQMI":2.261,
+    "AWATER_SQMI":0.223,
+    "formatted":"Baden",
+    "region":"Lower Austria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.031222,33.300136 ]
+    },
+    "properties": {
+    "USPS":"SC",
+    "GEOID":4503790,
+    "ANSICODE":2405205,
+    "NAME":"Bamberg town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":3607,
+    "HU10":1572,
+    "ALAND":9277382,
+    "AWATER":32060,
+    "ALAND_SQMI":3.582,
+    "AWATER_SQMI":0.012,
+    "formatted":"Bamberg",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.942458,43.082601 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3606046,
+    "ANSICODE":2391549,
+    "NAME":"Bergen village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1176,
+    "HU10":477,
+    "ALAND":1907750,
+    "AWATER":0,
+    "ALAND_SQMI":0.737,
+    "AWATER_SQMI":0,
+    "formatted":"Bergen",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.72008,48.003762 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3806180,
+    "ANSICODE":1035928,
+    "NAME":"Bergen city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":7,
+    "HU10":10,
+    "ALAND":1907350,
+    "AWATER":0,
+    "ALAND_SQMI":0.736,
+    "AWATER_SQMI":0,
+    "formatted":"Bergen",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.623513,31.067483 ]
+    },
+    "properties": {
+    "USPS":"GA",
+    "GEOID":1307304,
+    "ANSICODE":2403860,
+    "NAME":"Berlin city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":551,
+    "HU10":236,
+    "ALAND":1907973,
+    "AWATER":7545,
+    "ALAND_SQMI":0.737,
+    "AWATER_SQMI":0.003,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.902664,39.757649 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1705443,
+    "ANSICODE":2398103,
+    "NAME":"Berlin village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":180,
+    "HU10":93,
+    "ALAND":2588579,
+    "AWATER":0,
+    "ALAND_SQMI":0.999,
+    "AWATER_SQMI":0,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.913453,39.725924 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1752168,
+    "ANSICODE":2399456,
+    "NAME":"New Berlin village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1346,
+    "HU10":554,
+    "ALAND":2964660,
+    "AWATER":0,
+    "ALAND_SQMI":1.145,
+    "AWATER_SQMI":0,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.215933,38.33045 ]
+    },
+    "properties": {
+    "USPS":"MD",
+    "GEOID":2406800,
+    "ANSICODE":2390722,
+    "NAME":"Berlin town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":4485,
+    "HU10":1953,
+    "ALAND":8167951,
+    "AWATER":262,
+    "ALAND_SQMI":3.154,
+    "AWATER_SQMI":0,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.277154,44.484311 ]
+    },
+    "properties": {
+    "USPS":"NH",
+    "GEOID":3305140,
+    "ANSICODE":873545,
+    "NAME":"Berlin city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":10051,
+    "HU10":4910,
+    "ALAND":159588007,
+    "AWATER":2189350,
+    "ALAND_SQMI":61.617,
+    "AWATER_SQMI":0.845,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.234199,38.521464 ]
+    },
+    "properties": {
+    "USPS":"DE",
+    "GEOID":1028310,
+    "ANSICODE":2390189,
+    "NAME":"Frankford town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":847,
+    "HU10":281,
+    "ALAND":1888714,
+    "AWATER":0,
+    "ALAND_SQMI":0.729,
+    "AWATER_SQMI":0,
+    "formatted":"Frankford",
+    "region":"Frankfurt",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.936985,39.792059 ]
+    },
+    "properties": {
+    "USPS":"NJ",
+    "GEOID":3405440,
+    "ANSICODE":885158,
+    "NAME":"Berlin borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":7588,
+    "HU10":2949,
+    "ALAND":9292601,
+    "AWATER":33533,
+    "ALAND_SQMI":3.588,
+    "AWATER_SQMI":0.013,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.335317,42.623983 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3649946,
+    "ANSICODE":2391008,
+    "NAME":"New Berlin village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1028,
+    "HU10":484,
+    "ALAND":2759671,
+    "AWATER":0,
+    "ALAND_SQMI":1.066,
+    "AWATER_SQMI":0,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.488469,46.378298 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3806300,
+    "ANSICODE":1035929,
+    "NAME":"Berlin city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":34,
+    "HU10":18,
+    "ALAND":254489,
+    "AWATER":0,
+    "ALAND_SQMI":0.098,
+    "AWATER_SQMI":0,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.805586,40.566849 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3905816,
+    "ANSICODE":2628864,
+    "NAME":"Berlin CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":898,
+    "HU10":407,
+    "ALAND":3655183,
+    "AWATER":2375,
+    "ALAND_SQMI":1.411,
+    "AWATER_SQMI":0.001,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.950859,39.921523 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4205776,
+    "ANSICODE":1215582,
+    "NAME":"Berlin borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":2104,
+    "HU10":947,
+    "ALAND":2371450,
+    "AWATER":0,
+    "ALAND_SQMI":0.916,
+    "AWATER_SQMI":0,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.981127,40.881592 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4253200,
+    "ANSICODE":1215634,
+    "NAME":"New Berlin borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":873,
+    "HU10":379,
+    "ALAND":1004504,
+    "AWATER":26602,
+    "ALAND_SQMI":0.388,
+    "AWATER_SQMI":0.01,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.101265,29.462203 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4850796,
+    "ANSICODE":2411226,
+    "NAME":"New Berlin city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":511,
+    "HU10":222,
+    "ALAND":12405809,
+    "AWATER":0,
+    "ALAND_SQMI":4.79,
+    "AWATER_SQMI":0,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.950143,43.970632 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5506925,
+    "ANSICODE":1582799,
+    "NAME":"Berlin city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":5524,
+    "HU10":2561,
+    "ALAND":14967440,
+    "AWATER":1496589,
+    "ALAND_SQMI":5.779,
+    "AWATER_SQMI":0.578,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.83941,41.491342 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1727624,
+    "ANSICODE":2398915,
+    "NAME":"Frankfort village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":17782,
+    "HU10":6070,
+    "ALAND":38802681,
+    "AWATER":0,
+    "ALAND_SQMI":14.982,
+    "AWATER_SQMI":0,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.129168,42.972 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5556375,
+    "ANSICODE":1583799,
+    "NAME":"New Berlin city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":39584,
+    "HU10":16829,
+    "ALAND":94382208,
+    "AWATER":1124739,
+    "ALAND_SQMI":36.441,
+    "AWATER_SQMI":0.434,
+    "formatted":"Berlin",
+    "region":"Land Berlin",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.97115,39.961337 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2006275,
+    "ANSICODE":2394147,
+    "NAME":"Bern city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":166,
+    "HU10":95,
+    "ALAND":739951,
+    "AWATER":0,
+    "ALAND_SQMI":0.286,
+    "AWATER_SQMI":0,
+    "formatted":"Bern",
+    "region":"Bern",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.071831,35.092585 ]
+    },
+    "properties": {
+    "USPS":"NC",
+    "GEOID":3746340,
+    "ANSICODE":2404358,
+    "NAME":"New Bern city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":29524,
+    "HU10":14471,
+    "ALAND":73114451,
+    "AWATER":3743540,
+    "ALAND_SQMI":28.23,
+    "AWATER_SQMI":1.445,
+    "formatted":"Bern",
+    "region":"Bern",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.468196,45.714728 ]
+    },
+    "properties": {
+    "USPS":"WA",
+    "GEOID":5306085,
+    "ANSICODE":2409850,
+    "NAME":"Bingen city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":712,
+    "HU10":313,
+    "ALAND":1607378,
+    "AWATER":200502,
+    "ALAND_SQMI":0.621,
+    "AWATER_SQMI":0.077,
+    "formatted":"Bingen",
+    "region":"Rhineland-Palatinate",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.513526,37.439281 ]
+    },
+    "properties": {
+    "USPS":"CO",
+    "GEOID":807190,
+    "ANSICODE":2411696,
+    "NAME":"Blanca town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":385,
+    "HU10":167,
+    "ALAND":4624963,
+    "AWATER":0,
+    "ALAND_SQMI":1.786,
+    "AWATER_SQMI":0,
+    "formatted":"Blanca",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.180335,37.996957 ]
+    },
+    "properties": {
+    "USPS":"KY",
+    "GEOID":2109226,
+    "ANSICODE":2403913,
+    "NAME":"Brandenburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":2643,
+    "HU10":1158,
+    "ALAND":10127263,
+    "AWATER":43173,
+    "ALAND_SQMI":3.91,
+    "AWATER_SQMI":0.017,
+    "formatted":"Brandenburg",
+    "region":"Brandenburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.115109,29.699301 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4850820,
+    "ANSICODE":2411228,
+    "NAME":"New Braunfels city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":57740,
+    "HU10":23381,
+    "ALAND":113628193,
+    "AWATER":1046474,
+    "ALAND_SQMI":43.872,
+    "AWATER_SQMI":0.404,
+    "formatted":"Braunfels",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.151884,33.710775 ]
+    },
+    "properties": {
+    "USPS":"GA",
+    "GEOID":1310132,
+    "ANSICODE":2403917,
+    "NAME":"Bremen city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":6227,
+    "HU10":2614,
+    "ALAND":27178913,
+    "AWATER":72967,
+    "ALAND_SQMI":10.494,
+    "AWATER_SQMI":0.028,
+    "formatted":"Bremen",
+    "region":"Land Bremen",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.150645,41.447822 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1807318,
+    "ANSICODE":2396601,
+    "NAME":"Bremen town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":4588,
+    "HU10":1922,
+    "ALAND":7032941,
+    "AWATER":11642,
+    "ALAND_SQMI":2.715,
+    "AWATER_SQMI":0.004,
+    "formatted":"Bremen",
+    "region":"Land Bremen",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.222204,37.363729 ]
+    },
+    "properties": {
+    "USPS":"KY",
+    "GEOID":2109406,
+    "ANSICODE":2403916,
+    "NAME":"Bremen city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":197,
+    "HU10":105,
+    "ALAND":535757,
+    "AWATER":3234,
+    "ALAND_SQMI":0.207,
+    "AWATER_SQMI":0.001,
+    "formatted":"Bremen",
+    "region":"Land Bremen",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.429934,39.705971 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3908392,
+    "ANSICODE":2397448,
+    "NAME":"Bremen village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1425,
+    "HU10":546,
+    "ALAND":2231237,
+    "AWATER":5775,
+    "ALAND_SQMI":0.861,
+    "AWATER_SQMI":0.002,
+    "formatted":"Bremen",
+    "region":"Land Bremen",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.377697,40.434773 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3954194,
+    "ANSICODE":2399458,
+    "NAME":"New Bremen village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":2978,
+    "HU10":1266,
+    "ALAND":5554443,
+    "AWATER":0,
+    "ALAND_SQMI":2.145,
+    "AWATER_SQMI":0,
+    "formatted":"Bremen",
+    "region":"Land Bremen",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.75992,42.598314 ]
+    },
+    "properties": {
+    "USPS":"ID",
+    "GEOID":1610810,
+    "ANSICODE":2409935,
+    "NAME":"Buhl city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":4122,
+    "HU10":1766,
+    "ALAND":4705422,
+    "AWATER":0,
+    "ALAND_SQMI":1.817,
+    "AWATER_SQMI":0,
+    "formatted":"Buhl",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.781418,47.498411 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2708524,
+    "ANSICODE":2393459,
+    "NAME":"Buhl city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1000,
+    "HU10":496,
+    "ALAND":8671360,
+    "AWATER":534458,
+    "ALAND_SQMI":3.348,
+    "AWATER_SQMI":0.206,
+    "formatted":"Buhl",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.265552,40.918789 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1914880,
+    "ANSICODE":2393582,
+    "NAME":"Coburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":42,
+    "HU10":13,
+    "ALAND":752775,
+    "AWATER":0,
+    "ALAND_SQMI":0.291,
+    "AWATER_SQMI":0,
+    "formatted":"Coburg",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.510779,40.279679 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1825324,
+    "ANSICODE":2394805,
+    "NAME":"Frankfort city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":16422,
+    "HU10":6551,
+    "ALAND":16346292,
+    "AWATER":0,
+    "ALAND_SQMI":6.311,
+    "AWATER_SQMI":0,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.058859,44.138196 ]
+    },
+    "properties": {
+    "USPS":"OR",
+    "GEOID":4114400,
+    "ANSICODE":2409497,
+    "NAME":"Coburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1035,
+    "HU10":415,
+    "ALAND":2465790,
+    "AWATER":0,
+    "ALAND_SQMI":0.952,
+    "AWATER_SQMI":0,
+    "formatted":"Coburg",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.791386,44.769853 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2712664,
+    "ANSICODE":2393601,
+    "NAME":"Cologne city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1519,
+    "HU10":562,
+    "ALAND":4527775,
+    "AWATER":313246,
+    "ALAND_SQMI":1.748,
+    "AWATER_SQMI":0.121,
+    "formatted":"Cologne",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.00696,45.233959 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5517725,
+    "ANSICODE":1583027,
+    "NAME":"Crivitz village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":984,
+    "HU10":533,
+    "ALAND":4121982,
+    "AWATER":138347,
+    "ALAND_SQMI":1.592,
+    "AWATER_SQMI":0.053,
+    "formatted":"Crivitz",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.932382,48.15879 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3817620,
+    "ANSICODE":2584339,
+    "NAME":"Dahlen CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":18,
+    "HU10":17,
+    "ALAND":362018,
+    "AWATER":0,
+    "ALAND_SQMI":0.14,
+    "AWATER_SQMI":0,
+    "formatted":"Dahlen",
+    "region":"Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.729237,38.318739 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1718641,
+    "ANSICODE":2583437,
+    "NAME":"Darmstadt CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":68,
+    "HU10":29,
+    "ALAND":185950,
+    "AWATER":250,
+    "ALAND_SQMI":0.072,
+    "AWATER_SQMI":0,
+    "formatted":"Darmstadt",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.576994,38.091229 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1816858,
+    "ANSICODE":2396680,
+    "NAME":"Darmstadt town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":1407,
+    "HU10":564,
+    "ALAND":11696929,
+    "AWATER":152778,
+    "ALAND_SQMI":4.516,
+    "AWATER_SQMI":0.059,
+    "formatted":"Darmstadt",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.317152,45.084221 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2714878,
+    "ANSICODE":2393722,
+    "NAME":"Dassel city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1469,
+    "HU10":620,
+    "ALAND":4211367,
+    "AWATER":236106,
+    "ALAND_SQMI":1.626,
+    "AWATER_SQMI":0.091,
+    "formatted":"Dassel",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.991143,39.557365 ]
+    },
+    "properties": {
+    "USPS":"MD",
+    "GEOID":2422825,
+    "ANSICODE":2583608,
+    "NAME":"Detmold CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":71,
+    "HU10":39,
+    "ALAND":405218,
+    "AWATER":0,
+    "ALAND_SQMI":0.156,
+    "AWATER_SQMI":0,
+    "formatted":"Detmold",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.418911,39.621691 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2018600,
+    "ANSICODE":2394562,
+    "NAME":"Dresden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":41,
+    "HU10":29,
+    "ALAND":2441191,
+    "AWATER":0,
+    "ALAND_SQMI":0.943,
+    "AWATER_SQMI":0,
+    "formatted":"Dresden",
+    "region":"Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.957046,42.683928 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3620896,
+    "ANSICODE":2391645,
+    "NAME":"Dresden village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":308,
+    "HU10":141,
+    "ALAND":781533,
+    "AWATER":14640,
+    "ALAND_SQMI":0.302,
+    "AWATER_SQMI":0.006,
+    "formatted":"Dresden",
+    "region":"Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.011819,40.121657 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3922610,
+    "ANSICODE":2398748,
+    "NAME":"Dresden village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1529,
+    "HU10":705,
+    "ALAND":2956404,
+    "AWATER":91147,
+    "ALAND_SQMI":1.141,
+    "AWATER_SQMI":0.035,
+    "formatted":"Dresden",
+    "region":"Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.693465,36.277008 ]
+    },
+    "properties": {
+    "USPS":"TN",
+    "GEOID":4721540,
+    "ANSICODE":2406395,
+    "NAME":"Dresden town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":3005,
+    "HU10":1377,
+    "ALAND":14409612,
+    "AWATER":25626,
+    "ALAND_SQMI":5.564,
+    "AWATER_SQMI":0.01,
+    "formatted":"Dresden",
+    "region":"Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.48505,40.298197 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1723971,
+    "ANSICODE":2398825,
+    "NAME":"Emden village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":485,
+    "HU10":230,
+    "ALAND":607024,
+    "AWATER":0,
+    "ALAND_SQMI":0.234,
+    "AWATER_SQMI":0,
+    "formatted":"Emden",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.532433,45.948907 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2721266,
+    "ANSICODE":2394770,
+    "NAME":"Flensburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":225,
+    "HU10":94,
+    "ALAND":18039027,
+    "AWATER":110903,
+    "ALAND_SQMI":6.965,
+    "AWATER_SQMI":0.043,
+    "formatted":"Flensburg",
+    "region":"Schleswig-Holstein",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.605713,43.86756 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2722958,
+    "ANSICODE":2394832,
+    "NAME":"Fulda city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1318,
+    "HU10":615,
+    "ALAND":2662723,
+    "AWATER":204181,
+    "ALAND_SQMI":1.028,
+    "AWATER_SQMI":0.079,
+    "formatted":"Fulda",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.633637,42.812882 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5556700,
+    "ANSICODE":1583805,
+    "NAME":"New Glarus village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":2172,
+    "HU10":948,
+    "ALAND":4611708,
+    "AWATER":0,
+    "ALAND_SQMI":1.781,
+    "AWATER_SQMI":0,
+    "formatted":"Glarus",
+    "region":"Glarus",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.517059,28.530847 ]
+    },
+    "properties": {
+    "USPS":"FL",
+    "GEOID":1226900,
+    "ANSICODE":2402540,
+    "NAME":"Gotha CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1915,
+    "HU10":641,
+    "ALAND":4413553,
+    "AWATER":564418,
+    "ALAND_SQMI":1.704,
+    "AWATER_SQMI":0.218,
+    "formatted":"Gotha",
+    "region":"Thuringia",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.067963,42.796506 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3631533,
+    "ANSICODE":2628166,
+    "NAME":"Hall CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":216,
+    "HU10":97,
+    "ALAND":2649236,
+    "AWATER":0,
+    "ALAND_SQMI":1.023,
+    "AWATER_SQMI":0,
+    "formatted":"Hall",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.417807,39.704121 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2024275,
+    "ANSICODE":2394806,
+    "NAME":"Frankfort city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":726,
+    "HU10":363,
+    "ALAND":2608245,
+    "AWATER":11880,
+    "ALAND_SQMI":1.007,
+    "AWATER_SQMI":0.005,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.79739,33.224995 ]
+    },
+    "properties": {
+    "USPS":"AR",
+    "GEOID":529500,
+    "ANSICODE":2403784,
+    "NAME":"Hamburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":2857,
+    "HU10":1203,
+    "ALAND":8825474,
+    "AWATER":0,
+    "ALAND_SQMI":3.408,
+    "AWATER_SQMI":0,
+    "formatted":"Hamburg",
+    "region":"Land Hamburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.715427,39.23249 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1732395,
+    "ANSICODE":2398227,
+    "NAME":"Hamburg village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":128,
+    "HU10":92,
+    "ALAND":1351384,
+    "AWATER":347079,
+    "ALAND_SQMI":0.522,
+    "AWATER_SQMI":0.134,
+    "formatted":"Hamburg",
+    "region":"Land Hamburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.655018,40.606088 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1933780,
+    "ANSICODE":467990,
+    "NAME":"Hamburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1187,
+    "HU10":594,
+    "ALAND":2843864,
+    "AWATER":1224,
+    "ALAND_SQMI":1.098,
+    "AWATER_SQMI":0,
+    "formatted":"Hamburg",
+    "region":"Land Hamburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.963054,44.732491 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2726666,
+    "ANSICODE":2394274,
+    "NAME":"Hamburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":513,
+    "HU10":222,
+    "ALAND":587796,
+    "AWATER":1282,
+    "ALAND_SQMI":0.227,
+    "AWATER_SQMI":0,
+    "formatted":"Hamburg",
+    "region":"Land Hamburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.573466,41.148442 ]
+    },
+    "properties": {
+    "USPS":"NJ",
+    "GEOID":3429220,
+    "ANSICODE":885241,
+    "NAME":"Hamburg borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":3277,
+    "HU10":1476,
+    "ALAND":2956888,
+    "AWATER":59007,
+    "ALAND_SQMI":1.142,
+    "AWATER_SQMI":0.023,
+    "formatted":"Hamburg",
+    "region":"Land Hamburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.834867,42.723395 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3631643,
+    "ANSICODE":2390876,
+    "NAME":"Hamburg village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":9409,
+    "HU10":4175,
+    "ALAND":6438710,
+    "AWATER":0,
+    "ALAND_SQMI":2.486,
+    "AWATER_SQMI":0,
+    "formatted":"Hamburg",
+    "region":"Land Hamburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.982357,40.556225 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4232120,
+    "ANSICODE":1214915,
+    "NAME":"Hamburg borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":4289,
+    "HU10":2019,
+    "ALAND":4865016,
+    "AWATER":179169,
+    "ALAND_SQMI":1.878,
+    "AWATER_SQMI":0.069,
+    "formatted":"Hamburg",
+    "region":"Land Hamburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.86637,38.192651 ]
+    },
+    "properties": {
+    "USPS":"KY",
+    "GEOID":2128900,
+    "ANSICODE":2403656,
+    "NAME":"Frankfort city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":25527,
+    "HU10":12938,
+    "ALAND":37081381,
+    "AWATER":779672,
+    "ALAND_SQMI":14.317,
+    "AWATER_SQMI":0.301,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.270897,42.254813 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1732707,
+    "ANSICODE":2398242,
+    "NAME":"Hanover village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":844,
+    "HU10":474,
+    "ALAND":2727995,
+    "AWATER":0,
+    "ALAND_SQMI":1.053,
+    "AWATER_SQMI":0,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.473005,38.713904 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1831216,
+    "ANSICODE":2396984,
+    "NAME":"Hanover town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":3546,
+    "HU10":1216,
+    "ALAND":5977464,
+    "AWATER":11571,
+    "ALAND_SQMI":2.308,
+    "AWATER_SQMI":0.004,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.876071,39.893057 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2029875,
+    "ANSICODE":2394289,
+    "NAME":"Hanover city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":682,
+    "HU10":314,
+    "ALAND":1394608,
+    "AWATER":0,
+    "ALAND_SQMI":0.538,
+    "AWATER_SQMI":0,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.554526,42.100521 ]
+    },
+    "properties": {
+    "USPS":"MI",
+    "GEOID":2636380,
+    "ANSICODE":2398243,
+    "NAME":"Hanover village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":441,
+    "HU10":186,
+    "ALAND":1085255,
+    "AWATER":44878,
+    "ALAND_SQMI":0.419,
+    "AWATER_SQMI":0.017,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.989584,44.856522 ]
+    },
+    "properties": {
+    "USPS":"ME",
+    "GEOID":2341575,
+    "ANSICODE":2630700,
+    "NAME":"Lubec CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":349,
+    "HU10":358,
+    "ALAND":1351540,
+    "AWATER":220,
+    "ALAND_SQMI":0.522,
+    "AWATER_SQMI":0,
+    "formatted":"Lubec",
+    "region":"Lübeck",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.662899,45.157963 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2726990,
+    "ANSICODE":2394288,
+    "NAME":"Hanover city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":2938,
+    "HU10":950,
+    "ALAND":14115622,
+    "AWATER":374117,
+    "ALAND_SQMI":5.45,
+    "AWATER_SQMI":0.144,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.277187,43.708366 ]
+    },
+    "properties": {
+    "USPS":"NH",
+    "GEOID":3333780,
+    "ANSICODE":2378069,
+    "NAME":"Hanover CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":8636,
+    "HU10":2276,
+    "ALAND":11704709,
+    "AWATER":1219299,
+    "ALAND_SQMI":4.519,
+    "AWATER_SQMI":0.471,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.089691,32.814827 ]
+    },
+    "properties": {
+    "USPS":"NM",
+    "GEOID":3531540,
+    "ANSICODE":2584107,
+    "NAME":"Hanover CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":167,
+    "HU10":96,
+    "ALAND":3619210,
+    "AWATER":0,
+    "ALAND_SQMI":1.397,
+    "AWATER_SQMI":0,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.274975,40.08332 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3933292,
+    "ANSICODE":2398241,
+    "NAME":"Hanover village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":921,
+    "HU10":334,
+    "ALAND":4306509,
+    "AWATER":47052,
+    "ALAND_SQMI":1.663,
+    "AWATER_SQMI":0.018,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.983678,39.811734 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4232448,
+    "ANSICODE":1215748,
+    "NAME":"Hanover borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":15289,
+    "HU10":7263,
+    "ALAND":9616841,
+    "AWATER":0,
+    "ALAND_SQMI":3.713,
+    "AWATER_SQMI":0,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.231999,44.636844 ]
+    },
+    "properties": {
+    "USPS":"MI",
+    "GEOID":2630260,
+    "ANSICODE":1626305,
+    "NAME":"Frankfort city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1286,
+    "HU10":942,
+    "ALAND":3588401,
+    "AWATER":511017,
+    "ALAND_SQMI":1.385,
+    "AWATER_SQMI":0.197,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.375037,37.772075 ]
+    },
+    "properties": {
+    "USPS":"VA",
+    "GEOID":5135160,
+    "ANSICODE":2629025,
+    "NAME":"Hanover CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":252,
+    "HU10":117,
+    "ALAND":3076236,
+    "AWATER":2684,
+    "ALAND_SQMI":1.188,
+    "AWATER_SQMI":0.001,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.171209,42.638926 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5532550,
+    "ANSICODE":2586501,
+    "NAME":"Hanover CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":181,
+    "HU10":75,
+    "ALAND":1486474,
+    "AWATER":0,
+    "ALAND_SQMI":0.574,
+    "AWATER_SQMI":0,
+    "formatted":"Hanover",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.626458,44.49307 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2728214,
+    "ANSICODE":2394346,
+    "NAME":"Heidelberg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":122,
+    "HU10":47,
+    "ALAND":1384038,
+    "AWATER":0,
+    "ALAND_SQMI":0.534,
+    "AWATER_SQMI":0,
+    "formatted":"Heidelberg",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.987641,31.889955 ]
+    },
+    "properties": {
+    "USPS":"MS",
+    "GEOID":2831420,
+    "ANSICODE":2405814,
+    "NAME":"Heidelberg town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":718,
+    "HU10":346,
+    "ALAND":13243199,
+    "AWATER":50733,
+    "ALAND_SQMI":5.113,
+    "AWATER_SQMI":0.02,
+    "formatted":"Heidelberg",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.092207,40.391467 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4233592,
+    "ANSICODE":1214801,
+    "NAME":"Heidelberg borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":1244,
+    "HU10":665,
+    "ALAND":733889,
+    "AWATER":0,
+    "ALAND_SQMI":0.283,
+    "AWATER_SQMI":0,
+    "formatted":"Heidelberg",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.885018,26.183077 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4833092,
+    "ANSICODE":2408370,
+    "NAME":"Heidelberg CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1725,
+    "HU10":463,
+    "ALAND":6540340,
+    "AWATER":0,
+    "ALAND_SQMI":2.525,
+    "AWATER_SQMI":0,
+    "formatted":"Heidelberg",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.277821,35.165748 ]
+    },
+    "properties": {
+    "USPS":"AR",
+    "GEOID":532710,
+    "ANSICODE":2404711,
+    "NAME":"Holland city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":557,
+    "HU10":243,
+    "ALAND":17851912,
+    "AWATER":0,
+    "ALAND_SQMI":6.893,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.583046,40.183443 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1752545,
+    "ANSICODE":2399467,
+    "NAME":"New Holland village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":269,
+    "HU10":125,
+    "ALAND":738172,
+    "AWATER":0,
+    "ALAND_SQMI":0.285,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.038284,38.246024 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1834294,
+    "ANSICODE":2396996,
+    "NAME":"Holland town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":626,
+    "HU10":277,
+    "ALAND":814644,
+    "AWATER":2782,
+    "ALAND_SQMI":0.315,
+    "AWATER_SQMI":0.001,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.798815,42.399955 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1936705,
+    "ANSICODE":2394401,
+    "NAME":"Holland city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":282,
+    "HU10":113,
+    "ALAND":644795,
+    "AWATER":0,
+    "ALAND_SQMI":0.249,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.152813,42.051054 ]
+    },
+    "properties": {
+    "USPS":"MA",
+    "GEOID":2530630,
+    "ANSICODE":2378142,
+    "NAME":"Holland CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1464,
+    "HU10":957,
+    "ALAND":6871806,
+    "AWATER":1587264,
+    "ALAND_SQMI":2.653,
+    "AWATER_SQMI":0.613,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.098598,42.768074 ]
+    },
+    "properties": {
+    "USPS":"MI",
+    "GEOID":2638640,
+    "ANSICODE":1626478,
+    "NAME":"Holland city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":33051,
+    "HU10":13212,
+    "ALAND":42966085,
+    "AWATER":1973588,
+    "ALAND_SQMI":16.589,
+    "AWATER_SQMI":0.762,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.198888,44.090239 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2729618,
+    "ANSICODE":2394400,
+    "NAME":"Holland city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":187,
+    "HU10":110,
+    "ALAND":2411983,
+    "AWATER":3653,
+    "ALAND_SQMI":0.931,
+    "AWATER_SQMI":0.001,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.870531,36.057046 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2932590,
+    "ANSICODE":2396997,
+    "NAME":"Holland town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":229,
+    "HU10":112,
+    "ALAND":431975,
+    "AWATER":0,
+    "ALAND_SQMI":0.167,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.551775,42.637477 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3635111,
+    "ANSICODE":2389944,
+    "NAME":"Holland CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1206,
+    "HU10":563,
+    "ALAND":10370940,
+    "AWATER":0,
+    "ALAND_SQMI":4.004,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.707705,41.619043 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3935882,
+    "ANSICODE":2398524,
+    "NAME":"Holland village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1764,
+    "HU10":782,
+    "ALAND":2563188,
+    "AWATER":0,
+    "ALAND_SQMI":0.99,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.259377,39.554616 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3954726,
+    "ANSICODE":2399466,
+    "NAME":"New Holland village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":801,
+    "HU10":363,
+    "ALAND":4869405,
+    "AWATER":0,
+    "ALAND_SQMI":1.88,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.090147,40.101294 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4253696,
+    "ANSICODE":1215346,
+    "NAME":"New Holland borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":5378,
+    "HU10":2341,
+    "ALAND":5032823,
+    "AWATER":1953,
+    "ALAND_SQMI":1.943,
+    "AWATER_SQMI":0.001,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.607331,43.428675 ]
+    },
+    "properties": {
+    "USPS":"SD",
+    "GEOID":4644940,
+    "ANSICODE":2393147,
+    "NAME":"New Holland CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":76,
+    "HU10":45,
+    "ALAND":301372,
+    "AWATER":0,
+    "ALAND_SQMI":0.116,
+    "AWATER_SQMI":0,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.401205,30.888574 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4834508,
+    "ANSICODE":2412762,
+    "NAME":"Holland town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":1121,
+    "HU10":463,
+    "ALAND":4558902,
+    "AWATER":51625,
+    "ALAND_SQMI":1.76,
+    "AWATER_SQMI":0.02,
+    "formatted":"Holland",
+    "region":"Masuria",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.128582,31.690215 ]
+    },
+    "properties": {
+    "USPS":"LA",
+    "GEOID":2238285,
+    "ANSICODE":2405911,
+    "NAME":"Jena town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":3398,
+    "HU10":1375,
+    "ALAND":14239100,
+    "AWATER":82964,
+    "ALAND_SQMI":5.498,
+    "AWATER_SQMI":0.032,
+    "formatted":"Jena",
+    "region":"Thuringia",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.640244,44.664627 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2732174,
+    "ANSICODE":2395483,
+    "NAME":"Jordan city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":5470,
+    "HU10":1961,
+    "ALAND":8511070,
+    "AWATER":58600,
+    "ALAND_SQMI":3.286,
+    "AWATER_SQMI":0.023,
+    "formatted":"Jordan",
+    "region":"Lubusz",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.910051,47.321105 ]
+    },
+    "properties": {
+    "USPS":"MT",
+    "GEOID":3039925,
+    "ANSICODE":2412810,
+    "NAME":"Jordan town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":343,
+    "HU10":206,
+    "ALAND":870629,
+    "AWATER":0,
+    "ALAND_SQMI":0.336,
+    "AWATER_SQMI":0,
+    "formatted":"Jordan",
+    "region":"Lubusz",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.472868,43.067088 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3638825,
+    "ANSICODE":2390916,
+    "NAME":"Jordan village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1368,
+    "HU10":592,
+    "ALAND":2967163,
+    "AWATER":0,
+    "ALAND_SQMI":1.146,
+    "AWATER_SQMI":0,
+    "formatted":"Jordan",
+    "region":"Lubusz",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.616221,48.091021 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3841380,
+    "ANSICODE":1036102,
+    "NAME":"Karlsruhe city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":82,
+    "HU10":61,
+    "ALAND":1945561,
+    "AWATER":0,
+    "ALAND_SQMI":0.751,
+    "AWATER_SQMI":0,
+    "formatted":"Karlsruhe",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.32101,39.493252 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2925552,
+    "ANSICODE":2394804,
+    "NAME":"Frankford city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":323,
+    "HU10":171,
+    "ALAND":1354509,
+    "AWATER":3931,
+    "ALAND_SQMI":0.523,
+    "AWATER_SQMI":0.002,
+    "formatted":"Frankford",
+    "region":"Frankfurt",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.026497,43.91602 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5539525,
+    "ANSICODE":1583478,
+    "NAME":"Kiel city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":3738,
+    "HU10":1697,
+    "ALAND":6559767,
+    "AWATER":367104,
+    "ALAND_SQMI":2.533,
+    "AWATER_SQMI":0.142,
+    "formatted":"Kiel",
+    "region":"Schleswig-Holstein",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.261086,44.758507 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5540450,
+    "ANSICODE":2585066,
+    "NAME":"Krakow CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":354,
+    "HU10":161,
+    "ALAND":2920404,
+    "AWATER":0,
+    "ALAND_SQMI":1.128,
+    "AWATER_SQMI":0,
+    "formatted":"Krakow",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.946635,46.302247 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3843580,
+    "ANSICODE":1036112,
+    "NAME":"Kulm city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":354,
+    "HU10":248,
+    "ALAND":994443,
+    "AWATER":0,
+    "ALAND_SQMI":0.384,
+    "AWATER_SQMI":0,
+    "formatted":"Kulm",
+    "region":"Kuyavian-Pomeranian",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.951668,46.375813 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3856420,
+    "ANSICODE":1036181,
+    "NAME":"New Leipzig city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":221,
+    "HU10":155,
+    "ALAND":2303608,
+    "AWATER":0,
+    "ALAND_SQMI":0.889,
+    "AWATER_SQMI":0,
+    "formatted":"Leipzig",
+    "region":"Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.818688,38.285547 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1742860,
+    "ANSICODE":2398420,
+    "NAME":"Lenzburg village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":521,
+    "HU10":229,
+    "ALAND":3077331,
+    "AWATER":275552,
+    "ALAND_SQMI":1.188,
+    "AWATER_SQMI":0.106,
+    "formatted":"Lenzburg",
+    "region":"Aargau",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.792439,32.301015 ]
+    },
+    "properties": {
+    "USPS":"AL",
+    "GEOID":143240,
+    "ANSICODE":2404934,
+    "NAME":"Linden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":2123,
+    "HU10":1013,
+    "ALAND":9268318,
+    "AWATER":88546,
+    "ALAND_SQMI":3.579,
+    "AWATER_SQMI":0.034,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.131088,34.270838 ]
+    },
+    "properties": {
+    "USPS":"AZ",
+    "GEOID":441085,
+    "ANSICODE":2582815,
+    "NAME":"Linden CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":2597,
+    "HU10":1468,
+    "ALAND":78936490,
+    "AWATER":12049,
+    "ALAND_SQMI":30.478,
+    "AWATER_SQMI":0.005,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.101562,38.01814 ]
+    },
+    "properties": {
+    "USPS":"CA",
+    "GEOID":641670,
+    "ANSICODE":2408614,
+    "NAME":"Linden CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1784,
+    "HU10":673,
+    "ALAND":19189038,
+    "AWATER":134701,
+    "ALAND_SQMI":7.409,
+    "AWATER_SQMI":0.052,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.902817,40.188962 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1844082,
+    "ANSICODE":2396718,
+    "NAME":"Linden town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":759,
+    "HU10":329,
+    "ALAND":1082733,
+    "AWATER":0,
+    "ALAND_SQMI":0.418,
+    "AWATER_SQMI":0,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.269885,41.642642 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1945390,
+    "ANSICODE":2395716,
+    "NAME":"Linden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":199,
+    "HU10":92,
+    "ALAND":2052056,
+    "AWATER":0,
+    "ALAND_SQMI":0.792,
+    "AWATER_SQMI":0,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.781225,42.819164 ]
+    },
+    "properties": {
+    "USPS":"MI",
+    "GEOID":2647820,
+    "ANSICODE":1626627,
+    "NAME":"Linden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":3991,
+    "HU10":1695,
+    "ALAND":6105892,
+    "AWATER":172331,
+    "ALAND_SQMI":2.357,
+    "AWATER_SQMI":0.067,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.237823,40.62523 ]
+    },
+    "properties": {
+    "USPS":"NJ",
+    "GEOID":3440350,
+    "ANSICODE":885278,
+    "NAME":"Linden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":40499,
+    "HU10":15872,
+    "ALAND":27648132,
+    "AWATER":1896600,
+    "ALAND_SQMI":10.675,
+    "AWATER_SQMI":0.732,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.748372,35.254602 ]
+    },
+    "properties": {
+    "USPS":"NC",
+    "GEOID":3738360,
+    "ANSICODE":2406023,
+    "NAME":"Linden town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":130,
+    "HU10":65,
+    "ALAND":1309293,
+    "AWATER":0,
+    "ALAND_SQMI":0.506,
+    "AWATER_SQMI":0,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.843247,35.61218 ]
+    },
+    "properties": {
+    "USPS":"TN",
+    "GEOID":4742720,
+    "ANSICODE":2406022,
+    "NAME":"Linden town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":908,
+    "HU10":464,
+    "ALAND":2622923,
+    "AWATER":0,
+    "ALAND_SQMI":1.013,
+    "AWATER_SQMI":0,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.362628,33.010954 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4842844,
+    "ANSICODE":2410837,
+    "NAME":"Linden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1988,
+    "HU10":997,
+    "ALAND":9143613,
+    "AWATER":0,
+    "ALAND_SQMI":3.53,
+    "AWATER_SQMI":0,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.274171,42.918501 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5544625,
+    "ANSICODE":1583573,
+    "NAME":"Linden village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":549,
+    "HU10":233,
+    "ALAND":2010054,
+    "AWATER":0,
+    "ALAND_SQMI":0.776,
+    "AWATER_SQMI":0,
+    "formatted":"Linden",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.612429,39.230247 ]
+    },
+    "properties": {
+    "USPS":"WV",
+    "GEOID":5449156,
+    "ANSICODE":2390096,
+    "NAME":"Lubeck CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1311,
+    "HU10":564,
+    "ALAND":11022546,
+    "AWATER":10612,
+    "ALAND_SQMI":4.256,
+    "AWATER_SQMI":0.004,
+    "formatted":"Lubeck",
+    "region":"Schleswig-Holstein",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.767406,39.057902 ]
+    },
+    "properties": {
+    "USPS":"CA",
+    "GEOID":644406,
+    "ANSICODE":2408150,
+    "NAME":"Lucerne CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":3067,
+    "HU10":1833,
+    "ALAND":12892054,
+    "AWATER":27069,
+    "ALAND_SQMI":4.978,
+    "AWATER_SQMI":0.01,
+    "formatted":"Lucerne",
+    "region":"Lucerne",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.291714,40.463699 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2944372,
+    "ANSICODE":2399198,
+    "NAME":"Lucerne village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":85,
+    "HU10":51,
+    "ALAND":647451,
+    "AWATER":1250,
+    "ALAND_SQMI":0.25,
+    "AWATER_SQMI":0,
+    "formatted":"Lucerne",
+    "region":"Lucerne",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.18471,43.718022 ]
+    },
+    "properties": {
+    "USPS":"WY",
+    "GEOID":5648240,
+    "ANSICODE":2408151,
+    "NAME":"Lucerne CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":535,
+    "HU10":254,
+    "ALAND":51535288,
+    "AWATER":1714017,
+    "ALAND_SQMI":19.898,
+    "AWATER_SQMI":0.662,
+    "formatted":"Lucerne",
+    "region":"Lucerne",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.95679,34.630821 ]
+    },
+    "properties": {
+    "USPS":"OK",
+    "GEOID":4046600,
+    "ANSICODE":2411038,
+    "NAME":"Marlow city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":4662,
+    "HU10":2119,
+    "ALAND":18053283,
+    "AWATER":359355,
+    "ALAND_SQMI":6.97,
+    "AWATER_SQMI":0.139,
+    "formatted":"Marlow",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.110762,41.448905 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1949575,
+    "ANSICODE":2395014,
+    "NAME":"Marne city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":120,
+    "HU10":64,
+    "ALAND":1488688,
+    "AWATER":0,
+    "ALAND_SQMI":0.575,
+    "AWATER_SQMI":0,
+    "formatted":"Marne",
+    "region":"Schleswig-Holstein",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.303335,40.07411 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3947950,
+    "ANSICODE":2633219,
+    "NAME":"Marne CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":783,
+    "HU10":301,
+    "ALAND":2289893,
+    "AWATER":3568,
+    "ALAND_SQMI":0.884,
+    "AWATER_SQMI":0.001,
+    "formatted":"Marne",
+    "region":"Schleswig-Holstein",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.071582,43.037753 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3627188,
+    "ANSICODE":2390848,
+    "NAME":"Frankfort village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":2598,
+    "HU10":1183,
+    "ALAND":2625520,
+    "AWATER":44685,
+    "ALAND_SQMI":1.014,
+    "AWATER_SQMI":0.017,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.885344,38.720079 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2952148,
+    "ANSICODE":2395209,
+    "NAME":"New Melle city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":475,
+    "HU10":195,
+    "ALAND":4066422,
+    "AWATER":94905,
+    "ALAND_SQMI":1.57,
+    "AWATER_SQMI":0.037,
+    "formatted":"Melle",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.370477,38.438475 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1752714,
+    "ANSICODE":2399478,
+    "NAME":"New Minden village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":215,
+    "HU10":102,
+    "ALAND":798445,
+    "AWATER":0,
+    "ALAND_SQMI":0.308,
+    "AWATER_SQMI":0,
+    "formatted":"Minden",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.541029,41.468363 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1952590,
+    "ANSICODE":2395340,
+    "NAME":"Minden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":599,
+    "HU10":246,
+    "ALAND":1082250,
+    "AWATER":13322,
+    "ALAND_SQMI":0.418,
+    "AWATER_SQMI":0.005,
+    "formatted":"Minden",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.272754,32.619146 ]
+    },
+    "properties": {
+    "USPS":"LA",
+    "GEOID":2250885,
+    "ANSICODE":2404271,
+    "NAME":"Minden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":13082,
+    "HU10":5832,
+    "ALAND":38763601,
+    "AWATER":434995,
+    "ALAND_SQMI":14.967,
+    "AWATER_SQMI":0.168,
+    "formatted":"Minden",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.777353,43.671892 ]
+    },
+    "properties": {
+    "USPS":"MI",
+    "GEOID":2654560,
+    "ANSICODE":2399369,
+    "NAME":"Minden City village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":197,
+    "HU10":102,
+    "ALAND":2839044,
+    "AWATER":6484,
+    "ALAND_SQMI":1.096,
+    "AWATER_SQMI":0.003,
+    "formatted":"Minden",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.967529,40.498065 ]
+    },
+    "properties": {
+    "USPS":"NE",
+    "GEOID":3132340,
+    "ANSICODE":2395341,
+    "NAME":"Minden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":2923,
+    "HU10":1339,
+    "ALAND":5567399,
+    "AWATER":0,
+    "ALAND_SQMI":2.15,
+    "AWATER_SQMI":0,
+    "formatted":"Minden",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.76859,38.958307 ]
+    },
+    "properties": {
+    "USPS":"NV",
+    "GEOID":3247000,
+    "ANSICODE":2408835,
+    "NAME":"Minden CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":3001,
+    "HU10":1479,
+    "ALAND":10946752,
+    "AWATER":49379,
+    "ALAND_SQMI":4.227,
+    "AWATER_SQMI":0.019,
+    "formatted":"Minden",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.116085,37.976772 ]
+    },
+    "properties": {
+    "USPS":"WV",
+    "GEOID":5454508,
+    "ANSICODE":2586854,
+    "NAME":"Minden CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":250,
+    "HU10":120,
+    "ALAND":1280167,
+    "AWATER":0,
+    "ALAND_SQMI":0.494,
+    "AWATER_SQMI":0,
+    "formatted":"Minden",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.375693,33.653029 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4849932,
+    "ANSICODE":2411191,
+    "NAME":"Muenster city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1544,
+    "HU10":643,
+    "ALAND":6615325,
+    "AWATER":9506,
+    "ALAND_SQMI":2.554,
+    "AWATER_SQMI":0.004,
+    "formatted":"Muenster",
+    "region":"Münster",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.538413,39.912724 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2049150,
+    "ANSICODE":2395139,
+    "NAME":"Munden city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":100,
+    "HU10":67,
+    "ALAND":518841,
+    "AWATER":0,
+    "ALAND_SQMI":0.2,
+    "AWATER_SQMI":0,
+    "formatted":"Munden",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.752546,45.630833 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2745772,
+    "ANSICODE":2395210,
+    "NAME":"New Munich city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":320,
+    "HU10":140,
+    "ALAND":1358491,
+    "AWATER":0,
+    "ALAND_SQMI":0.525,
+    "AWATER_SQMI":0,
+    "formatted":"Munich",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.838749,48.673375 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3855020,
+    "ANSICODE":1036173,
+    "NAME":"Munich city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":210,
+    "HU10":116,
+    "ALAND":3710579,
+    "AWATER":14361,
+    "ALAND_SQMI":1.433,
+    "AWATER_SQMI":0.006,
+    "formatted":"Munich",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.503268,41.54751 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1851912,
+    "ANSICODE":2396794,
+    "NAME":"Munster town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":23603,
+    "HU10":9393,
+    "ALAND":19606735,
+    "AWATER":210011,
+    "ALAND_SQMI":7.57,
+    "AWATER_SQMI":0.081,
+    "formatted":"Munster",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.441754,45.067703 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2745016,
+    "ANSICODE":2395158,
+    "NAME":"Nassau city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":72,
+    "HU10":42,
+    "ALAND":413924,
+    "AWATER":0,
+    "ALAND_SQMI":0.16,
+    "AWATER_SQMI":0,
+    "formatted":"Nassau",
+    "region":"Rhineland-Palatinate",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.61075,42.513963 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3649506,
+    "ANSICODE":2391005,
+    "NAME":"Nassau village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1133,
+    "HU10":535,
+    "ALAND":1809748,
+    "AWATER":0,
+    "ALAND_SQMI":0.699,
+    "AWATER_SQMI":0,
+    "formatted":"Nassau",
+    "region":"Rhineland-Palatinate",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.16845,40.937744 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4255808,
+    "ANSICODE":2389598,
+    "NAME":"Nuremberg CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":434,
+    "HU10":227,
+    "ALAND":1548127,
+    "AWATER":0,
+    "ALAND_SQMI":0.598,
+    "AWATER_SQMI":0,
+    "formatted":"Nuremberg",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.204772,39.33883 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1856286,
+    "ANSICODE":2396831,
+    "NAME":"Oldenburg town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":674,
+    "HU10":268,
+    "ALAND":1123083,
+    "AWATER":6287,
+    "ALAND_SQMI":0.434,
+    "AWATER_SQMI":0.002,
+    "formatted":"Oldenburg",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.165089,38.264652 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2052800,
+    "ANSICODE":2396061,
+    "NAME":"Olpe city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":546,
+    "HU10":239,
+    "ALAND":1735575,
+    "AWATER":328810,
+    "ALAND_SQMI":0.67,
+    "AWATER_SQMI":0.127,
+    "formatted":"Olpe",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.570681,44.950116 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5560825,
+    "ANSICODE":1583884,
+    "NAME":"Owen city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":940,
+    "HU10":485,
+    "ALAND":4588891,
+    "AWATER":192802,
+    "ALAND_SQMI":1.772,
+    "AWATER_SQMI":0.074,
+    "formatted":"Owen",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.046929,38.35943 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1757160,
+    "ANSICODE":2583441,
+    "NAME":"Paderborn CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":43,
+    "HU10":22,
+    "ALAND":388654,
+    "AWATER":6593,
+    "ALAND_SQMI":0.15,
+    "AWATER_SQMI":0.003,
+    "formatted":"Paderborn",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.710918,48.311002 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3862780,
+    "ANSICODE":1036223,
+    "NAME":"Pisek city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":106,
+    "HU10":60,
+    "ALAND":301983,
+    "AWATER":0,
+    "ALAND_SQMI":0.117,
+    "AWATER_SQMI":0,
+    "formatted":"Pisek",
+    "region":"Southern Bohemia",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.685843,41.629067 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1761314,
+    "ANSICODE":2399009,
+    "NAME":"Posen village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":5987,
+    "HU10":1883,
+    "ALAND":3027980,
+    "AWATER":0,
+    "ALAND_SQMI":1.169,
+    "AWATER_SQMI":0,
+    "formatted":"Posen",
+    "region":"Greater Poland",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.698861,45.262242 ]
+    },
+    "properties": {
+    "USPS":"MI",
+    "GEOID":2666000,
+    "ANSICODE":2399010,
+    "NAME":"Posen village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":234,
+    "HU10":144,
+    "ALAND":2586482,
+    "AWATER":0,
+    "ALAND_SQMI":0.999,
+    "AWATER_SQMI":0,
+    "formatted":"Posen",
+    "region":"Greater Poland",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.178179,39.403287 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3928182,
+    "ANSICODE":2398914,
+    "NAME":"Frankfort village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1064,
+    "HU10":511,
+    "ALAND":1459734,
+    "AWATER":0,
+    "ALAND_SQMI":0.564,
+    "AWATER_SQMI":0,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.985895,44.669241 ]
+    },
+    "properties": {
+    "USPS":"NY",
+    "GEOID":3659564,
+    "ANSICODE":2391082,
+    "NAME":"Potsdam village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":9428,
+    "HU10":2586,
+    "ALAND":11517839,
+    "AWATER":1281491,
+    "ALAND_SQMI":4.447,
+    "AWATER_SQMI":0.495,
+    "formatted":"Potsdam",
+    "region":"Brandenburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.414818,39.963708 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3964430,
+    "ANSICODE":2399012,
+    "NAME":"Potsdam village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":288,
+    "HU10":104,
+    "ALAND":1153417,
+    "AWATER":0,
+    "ALAND_SQMI":0.445,
+    "AWATER_SQMI":0,
+    "formatted":"Potsdam",
+    "region":"Brandenburg",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.811206,29.539871 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4863284,
+    "ANSICODE":2410999,
+    "NAME":"Rosenberg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":30618,
+    "HU10":11162,
+    "ALAND":58227701,
+    "AWATER":144375,
+    "ALAND_SQMI":22.482,
+    "AWATER_SQMI":0.056,
+    "formatted":"Rosenberg",
+    "region":"Upper Silesia",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.434657,42.160517 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1971130,
+    "ANSICODE":2396554,
+    "NAME":"Schleswig city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":882,
+    "HU10":419,
+    "ALAND":3361682,
+    "AWATER":31306,
+    "ALAND_SQMI":1.298,
+    "AWATER_SQMI":0.012,
+    "formatted":"Schleswig",
+    "region":"Schleswig-Holstein",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.174767,40.244437 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4268200,
+    "ANSICODE":2584506,
+    "NAME":"Schoeneck CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1056,
+    "HU10":343,
+    "ALAND":7997596,
+    "AWATER":77615,
+    "ALAND_SQMI":3.088,
+    "AWATER_SQMI":0.03,
+    "formatted":"Schoeneck",
+    "region":"Schöneck",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.667418,45.502786 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2757238,
+    "ANSICODE":2396502,
+    "NAME":"St. Martin city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":308,
+    "HU10":126,
+    "ALAND":2229586,
+    "AWATER":0,
+    "ALAND_SQMI":0.861,
+    "AWATER_SQMI":0,
+    "formatted":"St. Martin",
+    "region":"Krain",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.86212,30.438126 ]
+    },
+    "properties": {
+    "USPS":"MS",
+    "GEOID":2864680,
+    "ANSICODE":2402811,
+    "NAME":"St. Martin CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":7730,
+    "HU10":3523,
+    "ALAND":11015108,
+    "AWATER":2231103,
+    "ALAND_SQMI":4.253,
+    "AWATER_SQMI":0.861,
+    "formatted":"St. Martin",
+    "region":"Krain",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.887616,39.214811 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3969666,
+    "ANSICODE":2399169,
+    "NAME":"St. Martin village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":129,
+    "HU10":50,
+    "ALAND":2830831,
+    "AWATER":0,
+    "ALAND_SQMI":1.093,
+    "AWATER_SQMI":0,
+    "formatted":"St. Martin",
+    "region":"Krain",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.938821,31.761439 ]
+    },
+    "properties": {
+    "USPS":"LA",
+    "GEOID":2267635,
+    "ANSICODE":2586708,
+    "NAME":"St. Maurice CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":323,
+    "HU10":167,
+    "ALAND":17392244,
+    "AWATER":0,
+    "ALAND_SQMI":6.715,
+    "AWATER_SQMI":0,
+    "formatted":"St. Maurice",
+    "region":"Valais",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.325068,57.179041 ]
+    },
+    "properties": {
+    "USPS":"AK",
+    "GEOID":266470,
+    "ANSICODE":2419461,
+    "NAME":"St. Paul city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":479,
+    "HU10":190,
+    "ALAND":104411968,
+    "AWATER":660837292,
+    "ALAND_SQMI":40.314,
+    "AWATER_SQMI":255.151,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.767303,35.826802 ]
+    },
+    "properties": {
+    "USPS":"AR",
+    "GEOID":562060,
+    "ANSICODE":2407273,
+    "NAME":"St. Paul town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":113,
+    "HU10":70,
+    "ALAND":697390,
+    "AWATER":820,
+    "ALAND_SQMI":0.269,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.628905,39.427869 ]
+    },
+    "properties": {
+    "USPS":"IN",
+    "GEOID":1867212,
+    "ANSICODE":2396900,
+    "NAME":"St. Paul town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":1031,
+    "HU10":443,
+    "ALAND":808927,
+    "AWATER":0,
+    "ALAND_SQMI":0.312,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.516434,40.767828 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1970185,
+    "ANSICODE":2396512,
+    "NAME":"St. Paul city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":129,
+    "HU10":53,
+    "ALAND":983114,
+    "AWATER":0,
+    "ALAND_SQMI":0.38,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.174822,37.518285 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2062500,
+    "ANSICODE":2396514,
+    "NAME":"St. Paul city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":629,
+    "HU10":259,
+    "ALAND":3159964,
+    "AWATER":0,
+    "ALAND_SQMI":1.22,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.103855,44.948869 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2758000,
+    "ANSICODE":2396511,
+    "NAME":"St. Paul city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":285068,
+    "HU10":120795,
+    "ALAND":134623737,
+    "AWATER":10875208,
+    "ALAND_SQMI":51.979,
+    "AWATER_SQMI":4.199,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.740945,38.846346 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2965108,
+    "ANSICODE":2396513,
+    "NAME":"St. Paul city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1829,
+    "HU10":656,
+    "ALAND":17292374,
+    "AWATER":0,
+    "ALAND_SQMI":6.677,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.459721,41.214021 ]
+    },
+    "properties": {
+    "USPS":"NE",
+    "GEOID":3143265,
+    "ANSICODE":2396515,
+    "NAME":"St. Paul city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":2290,
+    "HU10":1093,
+    "ALAND":2876647,
+    "AWATER":0,
+    "ALAND_SQMI":1.111,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.977173,45.212246 ]
+    },
+    "properties": {
+    "USPS":"OR",
+    "GEOID":4164850,
+    "ANSICODE":2411763,
+    "NAME":"St. Paul city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":421,
+    "HU10":151,
+    "ALAND":760705,
+    "AWATER":0,
+    "ALAND_SQMI":0.294,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.553391,33.047486 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4864220,
+    "ANSICODE":2412597,
+    "NAME":"St. Paul town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":1066,
+    "HU10":339,
+    "ALAND":3954300,
+    "AWATER":13310,
+    "ALAND_SQMI":1.527,
+    "AWATER_SQMI":0.005,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.563192,28.090956 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4864244,
+    "ANSICODE":2409231,
+    "NAME":"St. Paul CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":584,
+    "HU10":220,
+    "ALAND":8591551,
+    "AWATER":0,
+    "ALAND_SQMI":3.317,
+    "AWATER_SQMI":0,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.315923,36.907095 ]
+    },
+    "properties": {
+    "USPS":"VA",
+    "GEOID":5169936,
+    "ANSICODE":2391400,
+    "NAME":"St. Paul town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":970,
+    "HU10":475,
+    "ALAND":3448947,
+    "AWATER":126715,
+    "ALAND_SQMI":1.332,
+    "AWATER_SQMI":0.049,
+    "formatted":"St. Paul",
+    "region":"Steiermark",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.850386,38.867559 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1767132,
+    "ANSICODE":2399171,
+    "NAME":"St. Peter village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":359,
+    "HU10":160,
+    "ALAND":1348364,
+    "AWATER":0,
+    "ALAND_SQMI":0.521,
+    "AWATER_SQMI":0,
+    "formatted":"St. Peter",
+    "region":"Krain",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.964614,44.328504 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2758036,
+    "ANSICODE":2396517,
+    "NAME":"St. Peter city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":11196,
+    "HU10":3697,
+    "ALAND":14476956,
+    "AWATER":454170,
+    "ALAND_SQMI":5.59,
+    "AWATER_SQMI":0.175,
+    "formatted":"St. Peter",
+    "region":"Krain",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.343335,43.838275 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5571050,
+    "ANSICODE":2585074,
+    "NAME":"St. Peter CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":1489,
+    "HU10":544,
+    "ALAND":9397023,
+    "AWATER":12452,
+    "ALAND_SQMI":3.628,
+    "AWATER_SQMI":0.005,
+    "formatted":"St. Peter",
+    "region":"Krain",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.309239,44.877664 ]
+    },
+    "properties": {
+    "USPS":"SD",
+    "GEOID":4622580,
+    "ANSICODE":1267394,
+    "NAME":"Frankfort city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":149,
+    "HU10":82,
+    "ALAND":2039822,
+    "AWATER":0,
+    "ALAND_SQMI":0.788,
+    "AWATER_SQMI":0,
+    "formatted":"Frankfort",
+    "region":"Hesse",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.216002,38.367049 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2965162,
+    "ANSICODE":2396901,
+    "NAME":"St. Thomas town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":263,
+    "HU10":100,
+    "ALAND":2534969,
+    "AWATER":0,
+    "ALAND_SQMI":0.979,
+    "AWATER_SQMI":0,
+    "formatted":"St. Thomas",
+    "region":"Unknown",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.447099,48.61937 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3870260,
+    "ANSICODE":1036252,
+    "NAME":"St. Thomas city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":331,
+    "HU10":182,
+    "ALAND":2743638,
+    "AWATER":0,
+    "ALAND_SQMI":1.059,
+    "AWATER_SQMI":0,
+    "formatted":"St. Thomas",
+    "region":"Unknown",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.318187,39.720709 ]
+    },
+    "properties": {
+    "USPS":"CO",
+    "GEOID":874375,
+    "ANSICODE":2410008,
+    "NAME":"Strasburg CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":2447,
+    "HU10":970,
+    "ALAND":53862189,
+    "AWATER":64011,
+    "ALAND_SQMI":20.796,
+    "AWATER_SQMI":0.025,
+    "formatted":"Strasburg",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.621218,39.349686 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1773040,
+    "ANSICODE":2399916,
+    "NAME":"Strasburg village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":467,
+    "HU10":212,
+    "ALAND":1384705,
+    "AWATER":0,
+    "ALAND_SQMI":0.535,
+    "AWATER_SQMI":0,
+    "formatted":"Strasburg",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.164837,38.759888 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2971098,
+    "ANSICODE":2395983,
+    "NAME":"Strasburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":141,
+    "HU10":58,
+    "ALAND":503034,
+    "AWATER":0,
+    "ALAND_SQMI":0.194,
+    "AWATER_SQMI":0,
+    "formatted":"Strasburg",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.162028,46.133779 ]
+    },
+    "properties": {
+    "USPS":"ND",
+    "GEOID":3876500,
+    "ANSICODE":1036288,
+    "NAME":"Strasburg city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":409,
+    "HU10":224,
+    "ALAND":770175,
+    "AWATER":0,
+    "ALAND_SQMI":0.297,
+    "AWATER_SQMI":0,
+    "formatted":"Strasburg",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.529559,40.600594 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3974958,
+    "ANSICODE":2399915,
+    "NAME":"Strasburg village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":2608,
+    "HU10":1187,
+    "ALAND":3594883,
+    "AWATER":0,
+    "ALAND_SQMI":1.388,
+    "AWATER_SQMI":0,
+    "formatted":"Strasburg",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.186183,39.984516 ]
+    },
+    "properties": {
+    "USPS":"PA",
+    "GEOID":4274712,
+    "ANSICODE":1215349,
+    "NAME":"Strasburg borough",
+    "LSAD":21,
+    "FUNCSTAT":"A",
+    "POP10":2809,
+    "HU10":1171,
+    "ALAND":2480407,
+    "AWATER":8715,
+    "ALAND_SQMI":0.958,
+    "AWATER_SQMI":0.003,
+    "formatted":"Strasburg",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.345131,38.995265 ]
+    },
+    "properties": {
+    "USPS":"VA",
+    "GEOID":5176000,
+    "ANSICODE":2391430,
+    "NAME":"Strasburg town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":6398,
+    "HU10":2950,
+    "ALAND":9710777,
+    "AWATER":145222,
+    "ALAND_SQMI":3.749,
+    "AWATER_SQMI":0.056,
+    "formatted":"Strasburg",
+    "region":"Mecklenburg-Vorpommern",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.548357,34.495805 ]
+    },
+    "properties": {
+    "USPS":"AR",
+    "GEOID":567490,
+    "ANSICODE":2405537,
+    "NAME":"Stuttgart city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":9326,
+    "HU10":4344,
+    "ALAND":18699312,
+    "AWATER":0,
+    "ALAND_SQMI":7.22,
+    "AWATER_SQMI":0,
+    "formatted":"Stuttgart",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.673712,40.894939 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1976935,
+    "ANSICODE":468776,
+    "NAME":"Tabor city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1040,
+    "HU10":451,
+    "ALAND":3335069,
+    "AWATER":0,
+    "ALAND_SQMI":1.288,
+    "AWATER_SQMI":0,
+    "formatted":"Tabor",
+    "region":"Southern Bohemia",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.872131,34.152478 ]
+    },
+    "properties": {
+    "USPS":"NC",
+    "GEOID":3766520,
+    "ANSICODE":2406708,
+    "NAME":"Tabor City town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":2511,
+    "HU10":1239,
+    "ALAND":8223118,
+    "AWATER":0,
+    "ALAND_SQMI":3.175,
+    "AWATER_SQMI":0,
+    "formatted":"Tabor",
+    "region":"Southern Bohemia",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.659365,42.94776 ]
+    },
+    "properties": {
+    "USPS":"SD",
+    "GEOID":4662820,
+    "ANSICODE":1267598,
+    "NAME":"Tabor town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":423,
+    "HU10":199,
+    "ALAND":949922,
+    "AWATER":0,
+    "ALAND_SQMI":0.367,
+    "AWATER_SQMI":0,
+    "formatted":"Tabor",
+    "region":"Southern Bohemia",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.932876,44.604079 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2746024,
+    "ANSICODE":2395216,
+    "NAME":"New Trier city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":112,
+    "HU10":42,
+    "ALAND":536801,
+    "AWATER":0,
+    "ALAND_SQMI":0.207,
+    "AWATER_SQMI":0,
+    "formatted":"Trier",
+    "region":"Rhineland-Palatinate",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.461727,34.576285 ]
+    },
+    "properties": {
+    "USPS":"AR",
+    "GEOID":570760,
+    "ANSICODE":2406773,
+    "NAME":"Ulm town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":170,
+    "HU10":87,
+    "ALAND":657692,
+    "AWATER":0,
+    "ALAND_SQMI":0.254,
+    "AWATER_SQMI":0,
+    "formatted":"Ulm",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.466599,44.311753 ]
+    },
+    "properties": {
+    "USPS":"MN",
+    "GEOID":2746042,
+    "ANSICODE":2395217,
+    "NAME":"New Ulm city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":13522,
+    "HU10":5987,
+    "ALAND":25694250,
+    "AWATER":868146,
+    "ALAND_SQMI":9.921,
+    "AWATER_SQMI":0.335,
+    "formatted":"Ulm",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.523401,47.421315 ]
+    },
+    "properties": {
+    "USPS":"MT",
+    "GEOID":3075775,
+    "ANSICODE":2409378,
+    "NAME":"Ulm CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":738,
+    "HU10":281,
+    "ALAND":52195408,
+    "AWATER":1655288,
+    "ALAND_SQMI":20.153,
+    "AWATER_SQMI":0.639,
+    "formatted":"Ulm",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.08732,35.083349 ]
+    },
+    "properties": {
+    "USPS":"OK",
+    "GEOID":4077000,
+    "ANSICODE":2413428,
+    "NAME":"Verden town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":530,
+    "HU10":250,
+    "ALAND":849533,
+    "AWATER":0,
+    "ALAND_SQMI":0.328,
+    "AWATER_SQMI":0,
+    "formatted":"Verden",
+    "region":"Lower Saxony",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.786839,32.092747 ]
+    },
+    "properties": {
+    "USPS":"GA",
+    "GEOID":1379444,
+    "ANSICODE":2405651,
+    "NAME":"Vienna city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":4011,
+    "HU10":1775,
+    "ALAND":14155850,
+    "AWATER":65081,
+    "ALAND_SQMI":5.466,
+    "AWATER_SQMI":0.025,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.886577,37.413624 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1777863,
+    "ANSICODE":2397137,
+    "NAME":"Vienna city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":1434,
+    "HU10":738,
+    "ALAND":7369260,
+    "AWATER":95113,
+    "ALAND_SQMI":2.845,
+    "AWATER_SQMI":0.037,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.114009,42.547676 ]
+    },
+    "properties": {
+    "USPS":"IA",
+    "GEOID":1956550,
+    "ANSICODE":2395218,
+    "NAME":"New Vienna city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":407,
+    "HU10":180,
+    "ALAND":1139634,
+    "AWATER":0,
+    "ALAND_SQMI":0.44,
+    "AWATER_SQMI":0,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.64806,32.609177 ]
+    },
+    "properties": {
+    "USPS":"LA",
+    "GEOID":2278540,
+    "ANSICODE":2406800,
+    "NAME":"Vienna town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":386,
+    "HU10":172,
+    "ALAND":8980345,
+    "AWATER":0,
+    "ALAND_SQMI":3.467,
+    "AWATER_SQMI":0,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.826803,38.484924 ]
+    },
+    "properties": {
+    "USPS":"MD",
+    "GEOID":2480600,
+    "ANSICODE":2391460,
+    "NAME":"Vienna town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":271,
+    "HU10":143,
+    "ALAND":481409,
+    "AWATER":0,
+    "ALAND_SQMI":0.186,
+    "AWATER_SQMI":0,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.950601,38.187826 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2976102,
+    "ANSICODE":2397138,
+    "NAME":"Vienna city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":610,
+    "HU10":341,
+    "ALAND":2754435,
+    "AWATER":3637,
+    "ALAND_SQMI":1.063,
+    "AWATER_SQMI":0.001,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.872519,40.872247 ]
+    },
+    "properties": {
+    "USPS":"NJ",
+    "GEOID":3475950,
+    "ANSICODE":2584038,
+    "NAME":"Vienna CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":981,
+    "HU10":337,
+    "ALAND":7569114,
+    "AWATER":29213,
+    "ALAND_SQMI":2.922,
+    "AWATER_SQMI":0.011,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.692652,39.326069 ]
+    },
+    "properties": {
+    "USPS":"OH",
+    "GEOID":3955748,
+    "ANSICODE":2399484,
+    "NAME":"New Vienna village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1224,
+    "HU10":557,
+    "ALAND":2208810,
+    "AWATER":50160,
+    "ALAND_SQMI":0.853,
+    "AWATER_SQMI":0.019,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.50002,44.703163 ]
+    },
+    "properties": {
+    "USPS":"SD",
+    "GEOID":4667220,
+    "ANSICODE":1267615,
+    "NAME":"Vienna town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":45,
+    "HU10":22,
+    "ALAND":2179678,
+    "AWATER":0,
+    "ALAND_SQMI":0.842,
+    "AWATER_SQMI":0,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.260463,38.899158 ]
+    },
+    "properties": {
+    "USPS":"VA",
+    "GEOID":5181072,
+    "ANSICODE":2391461,
+    "NAME":"Vienna town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":15687,
+    "HU10":5686,
+    "ALAND":11411067,
+    "AWATER":17193,
+    "ALAND_SQMI":4.406,
+    "AWATER_SQMI":0.007,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.544724,39.309436 ]
+    },
+    "properties": {
+    "USPS":"WV",
+    "GEOID":5483500,
+    "ANSICODE":2390663,
+    "NAME":"Vienna city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":10749,
+    "HU10":5091,
+    "ALAND":9815751,
+    "AWATER":6470,
+    "ALAND_SQMI":3.79,
+    "AWATER_SQMI":0.002,
+    "formatted":"Vienna",
+    "region":"Land Vienna",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.934583,35.56525 ]
+    },
+    "properties": {
+    "USPS":"AR",
+    "GEOID":572320,
+    "ANSICODE":2406818,
+    "NAME":"Waldenburg town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":61,
+    "HU10":31,
+    "ALAND":346863,
+    "AWATER":0,
+    "ALAND_SQMI":0.134,
+    "AWATER_SQMI":0,
+    "formatted":"Waldenburg",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.777251,29.70005 ]
+    },
+    "properties": {
+    "USPS":"TX",
+    "GEOID":4877020,
+    "ANSICODE":2412202,
+    "NAME":"Weimar city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":2151,
+    "HU10":961,
+    "ALAND":5988117,
+    "AWATER":5844,
+    "ALAND_SQMI":2.312,
+    "AWATER_SQMI":0.002,
+    "formatted":"Weimar",
+    "region":"Thuringia",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.217272,37.889384 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2978226,
+    "ANSICODE":2587120,
+    "NAME":"Weingarten CDP",
+    "LSAD":57,
+    "FUNCSTAT":"S",
+    "POP10":133,
+    "HU10":53,
+    "ALAND":2720396,
+    "AWATER":0,
+    "ALAND_SQMI":1.05,
+    "AWATER_SQMI":0,
+    "formatted":"Weingarten",
+    "region":"Baden-Württemberg",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.081947,43.440634 ]
+    },
+    "properties": {
+    "USPS":"SD",
+    "GEOID":4645100,
+    "ANSICODE":1267493,
+    "NAME":"New Witten town",
+    "LSAD":43,
+    "FUNCSTAT":"A",
+    "POP10":79,
+    "HU10":51,
+    "ALAND":714759,
+    "AWATER":0,
+    "ALAND_SQMI":0.276,
+    "AWATER_SQMI":0,
+    "formatted":"Witten",
+    "region":"North Rhine-Westphalia",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.166607,44.82717 ]
+    },
+    "properties": {
+    "USPS":"WI",
+    "GEOID":5588325,
+    "ANSICODE":1584466,
+    "NAME":"Wittenberg village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":1081,
+    "HU10":495,
+    "ALAND":4645808,
+    "AWATER":0,
+    "ALAND_SQMI":1.794,
+    "AWATER_SQMI":0,
+    "formatted":"Wittenberg",
+    "region":"Saxony-Anhalt",
+    "metaregion":"North",
+    "marker-color":"#1e1e1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.792528,41.687325 ]
+    },
+    "properties": {
+    "USPS":"IL",
+    "GEOID":1783518,
+    "ANSICODE":2399742,
+    "NAME":"Worth village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":10789,
+    "HU10":4557,
+    "ALAND":6135155,
+    "AWATER":33038,
+    "ALAND_SQMI":2.369,
+    "AWATER_SQMI":0.013,
+    "formatted":"Worth",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.446506,40.404522 ]
+    },
+    "properties": {
+    "USPS":"MO",
+    "GEOID":2981070,
+    "ANSICODE":2399743,
+    "NAME":"Worth village",
+    "LSAD":47,
+    "FUNCSTAT":"A",
+    "POP10":63,
+    "HU10":41,
+    "ALAND":653932,
+    "AWATER":0,
+    "ALAND_SQMI":0.252,
+    "AWATER_SQMI":0,
+    "formatted":"Worth",
+    "region":"Bavaria",
+    "metaregion":"South",
+    "marker-color":"#ffcc00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.434685,39.232139 ]
+    },
+    "properties": {
+    "USPS":"KS",
+    "GEOID":2081025,
+    "ANSICODE":2397404,
+    "NAME":"Zurich city",
+    "LSAD":25,
+    "FUNCSTAT":"A",
+    "POP10":99,
+    "HU10":67,
+    "ALAND":450993,
+    "AWATER":0,
+    "ALAND_SQMI":0.174,
+    "AWATER_SQMI":0,
+    "formatted":"Zurich",
+    "region":"Zurich",
+    "metaregion":"West",
+    "marker-color":"#dd3322"
+    }
+  }
+]
+}
