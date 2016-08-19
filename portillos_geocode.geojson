@@ -616,34 +616,6 @@
     "Phone Number":"",
     "Theme":"'50s"
     }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Store":"",
-    "Street Number":"",
-    "City / State / Zip":"",
-    "Phone Number":"",
-    "Theme":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Store":"Sources:",
-    "Street Number":"http://www.portillos.com/all-locations/",
-    "City / State / Zip":"http://www.findlatitudeandlongitude.com/batch-geocode/#.V7dF4_krJhE",
-    "Phone Number":"http://www.convertcsv.com/csv-to-geojson.htm",
-    "Theme":""
-    }
   }
 ]
 }
