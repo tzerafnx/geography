@@ -1,0 +1,649 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.991483,41.933665 ]
+    },
+    "properties": {
+    "Store":"Addison",
+    "Street Number":"100 W. Lake Street",
+    "City / State / Zip":"Addison IL 60101",
+    "Phone Number":"630-628-0358",
+    "Theme":"'50s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.99192,42.139431 ]
+    },
+    "properties": {
+    "Store":"Arlington Heights",
+    "Street Number":"806 W. Dundee Road",
+    "City / State / Zip":"Arlington Heights IL 60004",
+    "Phone Number":"847-870-0870",
+    "Theme":"'20s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.34143,41.860794 ]
+    },
+    "properties": {
+    "Store":"Batavia",
+    "Street Number":"531 N. Randall Road",
+    "City / State / Zip":"Batavia IL 60510",
+    "Phone Number":"630-482-9600",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.076508,41.957209 ]
+    },
+    "properties": {
+    "Store":"Bloomingdale",
+    "Street Number":"134 E. Lake St",
+    "City / State / Zip":"Bloomingdale IL 60108",
+    "Phone Number":"630-351-3855",
+    "Theme":"Old Chicago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.067131,41.711856 ]
+    },
+    "properties": {
+    "Store":"Bolingbrook",
+    "Street Number":"134 E Boughton Rd",
+    "City / State / Zip":"Bolingbrook IL 60440",
+    "Phone Number":"630-759-3735",
+    "Theme":"'50s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.640642,41.869761 ]
+    },
+    "properties": {
+    "Store":"Chicago - Canal & Taylor",
+    "Street Number":"520 W. Taylor St.",
+    "City / State / Zip":"Chicago, IL 60607",
+    "Phone Number":"312-667-4560",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.631507,41.893473 ]
+    },
+    "properties": {
+    "Store":"Chicago - Clark & Ontario",
+    "Street Number":"100 W. Ontario",
+    "City / State / Zip":"Chicago IL 60654",
+    "Phone Number":"312-587-8910",
+    "Theme":"'30s, '40s Gangster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.738926,41.652923 ]
+    },
+    "properties": {
+    "Store":"Crestwood",
+    "Street Number":"13130 S Cicero",
+    "City / State / Zip":"Crestwood IL 60445",
+    "Phone Number":"708-385-6400",
+    "Theme":"'30s-'40s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.288985,42.226888 ]
+    },
+    "properties": {
+    "Store":"Crystal Lake",
+    "Street Number":"855 Cog Circle",
+    "City / State / Zip":"Crystal Lake IL 60014",
+    "Phone Number":"815-788-0900",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.02254,41.834458 ]
+    },
+    "properties": {
+    "Store":"Downers Grove",
+    "Street Number":"1500 Butterfield",
+    "City / State / Zip":"Downers Grove IL 60515",
+    "Phone Number":"630-495-9033",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.336914,42.006472 ]
+    },
+    "properties": {
+    "Store":"Elgin",
+    "Street Number":"1020 S. Randall Rd.",
+    "City / State / Zip":"Elgin IL 60124",
+    "Phone Number":"847-695-8884",
+    "Theme":"'50s and '60s Retro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.960179,42.003608 ]
+    },
+    "properties": {
+    "Store":"Elk Grove Village",
+    "Street Number":"1500 Busse Highway",
+    "City / State / Zip":"Elk Grove Village IL 60007",
+    "Phone Number":"847-228-6677",
+    "Theme":"'50s-'60s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.962514,41.895507 ]
+    },
+    "properties": {
+    "Store":"Elmhurst",
+    "Street Number":"155 S Rt. 83",
+    "City / State / Zip":"Elmhurst IL 60126",
+    "Phone Number":"630-530-8451",
+    "Theme":"'50s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.817409,41.864647 ]
+    },
+    "properties": {
+    "Store":"Forest Park",
+    "Street Number":"7740 W. Roosevelt Road",
+    "City / State / Zip":"Forest Park IL 60130",
+    "Phone Number":"708-383-7557",
+    "Theme":"'50s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.080489,41.902253 ]
+    },
+    "properties": {
+    "Store":"Glendale Heights",
+    "Street Number":"235 E. North Avenue",
+    "City / State / Zip":"Glendale Heights IL 60139",
+    "Phone Number":"630-690-9380",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.954237,42.383172 ]
+    },
+    "properties": {
+    "Store":"Gurnee",
+    "Street Number":"6102 W. Grand Ave.",
+    "City / State / Zip":"Gurnee, IL 60031",
+    "Phone Number":"",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.636479,41.571719 ]
+    },
+    "properties": {
+    "Store":"Homewood",
+    "Street Number":"17500 S. Halsted St.",
+    "City / State / Zip":"Homewood, IL 60430",
+    "Phone Number":"",
+    "Theme":"'70s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.132104,41.789076 ]
+    },
+    "properties": {
+    "Store":"Naperville (Ogden Ave)",
+    "Street Number":"950 E. Ogden Avenue",
+    "City / State / Zip":"Naperville IL 60563",
+    "Phone Number":"630-961-1151",
+    "Theme":"'20s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.205093,41.769934 ]
+    },
+    "properties": {
+    "Store":"Naperville (W. Jefferson)",
+    "Street Number":"1992 W. Jefferson",
+    "City / State / Zip":"Naperville IL 60540",
+    "Phone Number":"630-420-7156",
+    "Theme":"Old Miner's - Western"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.921533,41.509094 ]
+    },
+    "properties": {
+    "Store":"New Lenox",
+    "Street Number":"2306 E. Lincoln Highway",
+    "City / State / Zip":"New Lenox IL 60451",
+    "Phone Number":"815-485-8301",
+    "Theme":"'50s and '60s Retro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.846349,42.040285 ]
+    },
+    "properties": {
+    "Store":"Niles",
+    "Street Number":"8832 W. Dempster",
+    "City / State / Zip":"Niles IL 60714",
+    "Phone Number":"847-795-0600",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.912595,41.907353 ]
+    },
+    "properties": {
+    "Store":"Northlake",
+    "Street Number":"170 W. North Avenue",
+    "City / State / Zip":"Northlake IL 60164",
+    "Phone Number":"708-409-0000",
+    "Theme":"'20s-'30s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.723157,41.720789 ]
+    },
+    "properties": {
+    "Store":"Oak Lawn",
+    "Street Number":"4020 W. 95th Street",
+    "City / State / Zip":"Oak Lawn IL 60453",
+    "Phone Number":"708-425-1600",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.316511,41.698672 ]
+    },
+    "properties": {
+    "Store":"Oswego, Illinois",
+    "Street Number":"2810 Route 34",
+    "City / State / Zip":"Oswego IL 60543",
+    "Phone Number":"630-554-1000",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.996292,42.267724 ]
+    },
+    "properties": {
+    "Store":"Rockford",
+    "Street Number":"6090 State Street",
+    "City / State / Zip":"Rockford, IL 61108",
+    "Phone Number":"815-997-1800",
+    "Theme":"'50s and '60s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.003633,42.051783 ]
+    },
+    "properties": {
+    "Store":"Rolling Meadows",
+    "Street Number":"1900 W. Golf Road",
+    "City / State / Zip":"Rolling Meadows IL 60008",
+    "Phone Number":"847-228-0777",
+    "Theme":"'50s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.063541,42.049395 ]
+    },
+    "properties": {
+    "Store":"Schaumburg",
+    "Street Number":"611 E. Golf Road",
+    "City / State / Zip":"Schaumburg IL 60173",
+    "Phone Number":"847-884-9020",
+    "Theme":"'50s-'60s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.200215,41.543134 ]
+    },
+    "properties": {
+    "Store":"Shorewood",
+    "Street Number":"1155 Brook Forest Ave",
+    "City / State / Zip":"Shorewood IL 60404",
+    "Phone Number":"815-609-1400",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.747395,42.051902 ]
+    },
+    "properties": {
+    "Store":"Skokie",
+    "Street Number":"9400 Skokie Blvd.",
+    "City / State / Zip":"Skokie IL 60077",
+    "Phone Number":"847-933-0700",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.263367,41.921103 ]
+    },
+    "properties": {
+    "Store":"St. Charles",
+    "Street Number":"3895 E. Main Street",
+    "City / State / Zip":"St. Charles IL 60174",
+    "Phone Number":"630-762-8484",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.145206,42.013062 ]
+    },
+    "properties": {
+    "Store":"Streamwood",
+    "Street Number":"950 S. Barrington Road",
+    "City / State / Zip":"Streamwood IL 60107",
+    "Phone Number":"630-213-6656",
+    "Theme":"'50s-'60s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.80186,41.790819 ]
+    },
+    "properties": {
+    "Store":"Summit",
+    "Street Number":"5532 S. Harlem Avenue",
+    "City / State / Zip":"Summit IL 60501",
+    "Phone Number":"708-458-7000",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.717299,41.971445 ]
+    },
+    "properties": {
+    "Store":"Sycamore",
+    "Street Number":"1780 DeKalb Avenue",
+    "City / State / Zip":"Sycamore IL 60178",
+    "Phone Number":"815-895-0100",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.795171,41.601663 ]
+    },
+    "properties": {
+    "Store":"Tinley Park",
+    "Street Number":"15900 S. Harlem Avenue",
+    "City / State / Zip":"Tinley Park IL 60477",
+    "Phone Number":"708-444-1000",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.959193,42.239943 ]
+    },
+    "properties": {
+    "Store":"Vernon Hills",
+    "Street Number":"221 E. Townline Road",
+    "City / State / Zip":"Vernon Hills IL 60061",
+    "Phone Number":"847-367-7290",
+    "Theme":"'30s, '40s Gangster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.985062,41.90546 ]
+    },
+    "properties": {
+    "Store":"Villa Park",
+    "Street Number":"635 1/2 W. North Avenue",
+    "City / State / Zip":"Villa Park IL 60181",
+    "Phone Number":"630-530-8440",
+    "Theme":"'50s and '60s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.944204,41.757426 ]
+    },
+    "properties": {
+    "Store":"Willowbrook",
+    "Street Number":"7195 Kingery Hwy.",
+    "City / State / Zip":"Willowbrook IL 60527",
+    "Phone Number":"630-789-0909",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.908634,33.429771 ]
+    },
+    "properties": {
+    "Store":"Tempe",
+    "Street Number":"65 S McClintock Dr.",
+    "City / State / Zip":"Tempe AZ 85281",
+    "Phone Number":"480-967-7988",
+    "Theme":"'50s and '60s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.888595,33.58175 ]
+    },
+    "properties": {
+    "Store":"Scottsdale",
+    "Street Number":"10574 N. 90th St.",
+    "City / State / Zip":"Scottsdale AZ 85258",
+    "Phone Number":"480-451-2888",
+    "Theme":"'50s and '60s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.987143,33.846388 ]
+    },
+    "properties": {
+    "Store":"Buena Park",
+    "Street Number":"8390 La Palma Ave.",
+    "City / State / Zip":"Buena Park CA 90620",
+    "Phone Number":"714-220-6400",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.278267,33.934507 ]
+    },
+    "properties": {
+    "Store":"Moreno Valley",
+    "Street Number":"12840 Day St",
+    "City / State / Zip":"Moreno Valley CA 92553",
+    "Phone Number":"951-653-1000",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.31184,27.938176 ]
+    },
+    "properties": {
+    "Store":"Brandon",
+    "Street Number":"1748 W. Brandon Blvd.",
+    "City / State / Zip":"Brandon, FL 33511",
+    "Phone Number":"813-210-8190",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.332835,41.470347 ]
+    },
+    "properties": {
+    "Store":"Merrillville",
+    "Street Number":"555 E 81st Street",
+    "City / State / Zip":"Merrillville IN 46410",
+    "Phone Number":"219-769-8300",
+    "Theme":"'30s Prohibition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.131373,43.036322 ]
+    },
+    "properties": {
+    "Store":"Brookfield",
+    "Street Number":"17685 W. Bluemound Rd.",
+    "City / State / Zip":"Brookfield, WI 53045",
+    "Phone Number":"",
+    "Theme":"'50s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Store":"",
+    "Street Number":"",
+    "City / State / Zip":"",
+    "Phone Number":"",
+    "Theme":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Store":"Sources:",
+    "Street Number":"http://www.portillos.com/all-locations/",
+    "City / State / Zip":"http://www.findlatitudeandlongitude.com/batch-geocode/#.V7dF4_krJhE",
+    "Phone Number":"http://www.convertcsv.com/csv-to-geojson.htm",
+    "Theme":""
+    }
+  }
+]
+}
